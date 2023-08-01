@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">كتاب كيف توقف العادة السرية</string>
+    <string name="btn_start">إبدأ القراءة</string>
+
+    <string name="how1">مقدمة المترجم والكتاب .....5</string>
+    <string name="how2">كيف؟ كـيف؟ .....12</string>
+    <string name="how3">الآثار السلبية للعادة السرية .....16</string>
+    <string name="how4">خمس نصائح مهمة للتوقف عن العادة السرية .....23</string>
+    <string name="how5">تعلّم أو ستظل مدمنًا للإباحية والعادة السرية .....30</string>
+    <string name="how6">طوِّر أكبر جهاز جنسي لديك وهو دماغك! .....32</string>
+    <string name="how7">صم، فالصيام سيساعدك على التعافي من إدمان الإباحية .....35</string>
+    <string name="how8">لاتحارب الإباحية والعادة السرية! .....39</string>
+    <string name="how9">سامــح نفســـك و الآخرين .....45</string>
+    <string name="how10">قل: لا للناس الطيبـين! .....48</string>
+    <string name="how11">اكتب يوميـــات .....51</string>
+    <string name="how12">اغسل دماغك بنفسك, وتفكر، وإلا ستنجرف بعيداً! .....58</string>
+    <string name="how13">لا توجد حلول سريعة .....63</string>
+    <string name="how14">هل الزواج حل لإدمان الإباحـية؟ .....65</string>
+    <string name="how15">لا تستسلم! .....66</string>
+
+    <string name="how101">مقدمة المترجم والكتاب</string>
+    <string name="how22">كيف؟ كـيف؟؟</string>
+    <string name="how33">الآثار السلبية للعادة السرية</string>
+    <string name="how44">خمس نصائح مهمة للتوقف عن العادة السرية</string>
+    <string name="how55">تعلّم أو ستظل مدمنًا للإباحية والعادة السرية</string>
+    <string name="how66">طوِّر أكبر جهاز جنسي لديك وهو دماغك!</string>
+    <string name="how77">صم، فالصيام سيساعدك على التعافي</string>
+    <string name="how88">لاتحارب الإباحية والعادة السرية!</string>
+    <string name="how99">سامــح نفســـك و الآخرين</string>
+    <string name="how100">قل: لا للناس الطيبـين!</string>
+    <string name="how111">اكتب يوميـــات</string>
+    <string name="how122">اغسل دماغك بنفسك, وتفكر، وإلا ستنجرف بعيداً!</string>
+    <string name="how133">لا توجد حلول سريعة</string>
+    <string name="how144">هل الزواج حل لإدمان الإباحـية؟</string>
+    <string name="how155">لا تستسلم!</string>
+
+<!--    <string name="app_id">ca-app-pub-9967406715617498~6093180533</string>-->
+    <string name="sharing_app">شارك التطبيق</string>
+    <string name="exit_app">اغلاق</string>
+<string name="act_bar2">فهرس الكتاب</string>
+<string name="share_appmenuitem">شارك</string>
+<string name="return_tolist">الفهرس</string>
+<!--    <string name="Banner_nofap">ca-app-pub-9967406715617498/6855597862</string>-->
+
+<!--    <string name="insteritor_nofap">ca-app-pub-9967406715617498/8846162928</string>-->
+
+
+    <string name="next">التالي</string>
+    <string name="perveous">السابق</string>
+    <string name="more_app">مزيد من التطبيقات</string>
+    <string name="night1">الوضع الليلي</string>
+    <string name="unnight1">الوضع المشمس</string>
+    <string name="night">وضع القراءة الليلي</string>
+
+
+</resources>
