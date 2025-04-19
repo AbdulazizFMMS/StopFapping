@@ -1,23 +1,32 @@
-Stop Fapping – Version 4.0
+#  Stop Fapping – Version 4.0
 
-Break free from bad habits with Stop Fapping 4.0, your personal companion in the journey toward self-control and mental clarity.
-This lightweight and effective app offers practical tools, motivational content, and daily tracking features to help you stay focused, build discipline, and improve your well-being. Whether you're just getting started or you've been working on self-improvement for a while, Stop Fapping is here to support you every step of the way.
+💪 **Break free from bad habits** with *Stop Fapping 4.0*, your personal companion in the journey toward self-control and mental clarity.  
+This lightweight and effective app offers **practical tools**, **motivational content**, and **daily tracking features** to help you stay focused, build discipline, and improve your well-being.  
 
-Key Features:
+Whether you're just getting started or you've been working on self-improvement for a while, **Stop Fapping** is here to support you every step of the way.
 
-Daily progress tracking
+---
 
-Motivational quotes and reminders
+## ✨ Key Features:
 
-Useful tools to manage urges
+- 📆 **Daily progress tracking**  
+- 💬 **Motivational quotes and reminders**  
+- 🧰 **Useful tools to manage urges**  
+- 🧘‍♂️ **Clean, distraction-free interface**  
+- 🔁 **Designed to support long-term habit change**  
+- 🎧 **Includes an integrated online audio player**
 
-Clean, distraction-free interface
+---
 
-Designed to support long-term habit change
+## 🚀 Take the first step towards a better you  
+**Install now and stay strong! 💯**
 
-Take the first step towards a better you. Install now and stay strong!
+---
 
-ScreenShots:
+## 🖼️ Screenshots:
+*(Add your screenshots here in markdown like below)*
+
+
 ![image](https://github.com/user-attachments/assets/48378a82-5d13-43f0-af95-2d2a520fb555)
 ![image](https://github.com/user-attachments/assets/4aef848a-52e6-4de9-8f0e-7ea8030a446f)
 ![image](https://github.com/user-attachments/assets/be2e60ff-3435-420d-97fb-623d085da645)
