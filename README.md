@@ -27,13 +27,21 @@ Whether you're just getting started or you've been working on self-improvement f
 *(Add your screenshots here in markdown like below)*
 
 
-![image](https://github.com/user-attachments/assets/48378a82-5d13-43f0-af95-2d2a520fb555)
-![image](https://github.com/user-attachments/assets/4aef848a-52e6-4de9-8f0e-7ea8030a446f)
-![image](https://github.com/user-attachments/assets/be2e60ff-3435-420d-97fb-623d085da645)
+<img src="https://github.com/user-attachments/assets/48378a82-5d13-43f0-af95-2d2a520fb555" width="300" />
+<img src="https://github.com/user-attachments/assets/4aef848a-52e6-4de9-8f0e-7ea8030a446f" width="300" />
+<img src="https://github.com/user-attachments/assets/be2e60ff-3435-420d-97fb-623d085da645" width="300" />
 
-And more ...
 
-Download from Google Play| 
-![image](https://github.com/user-attachments/assets/bae50770-b59d-4f47-8241-a24ebe60356b)
+And more...
 
-https://play.google.com/store/apps/details?id=com.mofidh1.stopmastur
+---
+
+### 📱 Try It on Your Phone!
+
+Download from Google Play:  
+<a href="https://play.google.com/store/apps/details?id=com.mofidh1.stopmastur" target="_blank">
+  <img src="https://github.com/user-attachments/assets/bae50770-b59d-4f47-8241-a24ebe60356b" width="300" />
+</a>
+
+➡️ [Or click here to open it in Google Play](https://play.google.com/store/apps/details?id=com.mofidh1.stopmastur)
+
