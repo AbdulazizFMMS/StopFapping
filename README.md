@@ -17,6 +17,13 @@ Designed to support long-term habit change
 
 Take the first step towards a better you. Install now and stay strong!
 
+ScreenShots:
+![image](https://github.com/user-attachments/assets/48378a82-5d13-43f0-af95-2d2a520fb555)
+![image](https://github.com/user-attachments/assets/4aef848a-52e6-4de9-8f0e-7ea8030a446f)
+![image](https://github.com/user-attachments/assets/be2e60ff-3435-420d-97fb-623d085da645)
+
+And more ...
+
 Download from Google Play| 
 ![image](https://github.com/user-attachments/assets/bae50770-b59d-4f47-8241-a24ebe60356b)
 
